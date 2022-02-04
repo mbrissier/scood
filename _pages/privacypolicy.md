@@ -131,9 +131,9 @@ Cookies sind kleine Textdateien, bzw. sonstige Speichervermerke, die Information
                     Temporäre Cookies werden spätestens gelöscht, nachdem ein Nutzer ein Online-Angebot verlassen und sein Endgerät (z.B. Browser oder mobile Applikation) geschlossen hat.
 <br>
                    - Permanente Cookies:  
-                    Permanente Cookies bleiben auch nach dem Schließen des Endgerätes gespeichert. So können beispielsweise der Login-Status gespeichert oder bevorzugte Inhalte direkt angezeigt werden, wenn der Nutzer eine Website erneut besucht. Ebenso können die mit Hilfe von Cookies erhobenen Daten der Nutzer zur Reichweitenmessung verwendet werden. Sofern wir Nutzern keine expliziten Angaben zur Art und Speicherdauer von Cookies mitteilen (z. B. im Rahmen der Einholung der Einwilligung), sollten Nutzer davon ausgehen, dass Cookies permanent sind und die Speicherdauer bis zu zwei Jahre betragen kann.
-
-                     Allgemeine Hinweise zum Widerruf und Widerspruch (Opt-Out):  
+                    Permanente Cookies bleiben auch nach dem Schließen des Endgerätes gespeichert. So können beispielsweise der Login-Status gespeichert oder bevorzugte Inhalte direkt angezeigt werden, wenn der Nutzer eine Website erneut besucht. Ebenso können die mit Hilfe von Cookies erhobenen Daten der Nutzer zur Reichweitenmessung verwendet werden. Sofern wir Nutzern keine expliziten Angaben zur Art und Speicherdauer von Cookies mitteilen (z. B. im Rahmen der Einholung der Einwilligung), sollten Nutzer davon ausgehen, dass Cookies permanent sind und die Speicherdauer bis zu zwei Jahre betragen kann. 
+                    <br>
+                    Allgemeine Hinweise zum Widerruf und Widerspruch (Opt-Out):  
                     Nutzer können die von ihnen abgegebenen Einwilligungen jederzeit Widerrufen und zudem einen Widerspruch gegen die Verarbeitung entsprechend den gesetzlichen Vorgaben im
                     Art. 21 DSGVO einlegen (weitere Hinweise zum Widerspruch erfolgen im Rahmen dieser Datenschutzerklärung).
                     Nutzer können Ihren Widerspruch auch mittels der Einstellungen Ihres Browsers erklären.
@@ -142,9 +142,7 @@ Cookies sind kleine Textdateien, bzw. sonstige Speichervermerke, die Information
 Wir verarbeiten personenbezogene Daten zu Zwecken des Onlinemarketings, worunter insbesondere die Vermarktung von Werbeflächen
                     oder Darstellung von werbenden und sonstigen Inhalten (zusammenfassend als "Inhalte" bezeichnet) anhand potentieller
                     Interessen der Nutzer sowie die Messung ihrer Effektivität fallen kann.
-             <br>        
-                     
-                    Zu diesen Zwecken werden sogenannte Nutzerprofile angelegt und in einer Datei (sogenannte "Cookie") gespeichert oder ähnliche Verfahren genutzt,
+             <br> Zu diesen Zwecken werden sogenannte Nutzerprofile angelegt und in einer Datei (sogenannte "Cookie") gespeichert oder ähnliche Verfahren genutzt,
                     mittels derer die für die Darstellung der vorgenannten Inhalte relevante Angaben zum Nutzer gespeichert werden.
                     Zu diesen Angaben können z.B. betrachtete Inhalte, besuchte Webseiten, genutzte Onlinenetzwerke,
                     aber auch Kommunikationspartner und technische Angaben, wie der verwendete Browser,
@@ -188,20 +186,10 @@ Wir verarbeiten personenbezogene Daten zu Zwecken des Onlinemarketings, worunter
  <br>                     
                     -  Verarbeitete Datenarten: Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten);
                     Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
-                     
-                     
                     -  Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
-                     
-                     
                     -  Zwecke der Verarbeitung: Marketing; Profile mit nutzerbezogenen Informationen (Erstellen von Nutzerprofilen).
-                     
-                     
                     -  Sicherheitsmaßnahmen: IP-Masking (Pseudonymisierung der IP-Adresse).
-                     
-                     
                     -  Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO); Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
-                     
-                     
                     -  Widerspruchsmöglichkeit (Opt-Out): Wir verweisen auf die Datenschutzhinweise der jeweiligen
                     Anbieter und die zu den Anbietern angegebenen Widerspruchsmöglichkeiten (sog. "Opt-Out"). Sofern keine explizite Opt-Out-Möglichkeit
                     angegeben wurde, besteht zum einen die Möglichkeit, dass Sie Cookies in den Einstellungen Ihres Browsers abschalten. Hierdurch können jedoch
@@ -252,6 +240,3 @@ In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutz
                     - Verantwortlicher:Als "Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
 <br>
                     - Verarbeitung:"Verarbeitung" ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten, sei es das Erheben, das Auswerten, das Speichern, das Übermitteln oder das Löschen.
-
-## Onlinemarketing
-
