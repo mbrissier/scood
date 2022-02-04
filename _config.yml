@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : cube
     
   - title                                 : Individuelle Warnungen!
-    description                           : Wir warnen Dich, wenn du deine tägliche Menge an Zucker überschreitest.
+    description                           : Wir warnen Dich, wenn du deine tägliche Menge an Zucker, Fett oder Salz überschreitest.
     fontawesome_icon_name                 : exclamation-circle
 
   - title                                 : Kinderleichtes System zur Lebensmittelbewertung!
