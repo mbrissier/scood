@@ -36,15 +36,15 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Würfelzucker statt Grammzahl!
-    description                           : Wir geben Zuckermengen nicht mit Grammzahlen an, sondern zeigen dir Würfelzucker.
+    description                           : Wir geben Zucker nicht nur in Gramm an, sondern zeigen dir Würfelzucker.
     fontawesome_icon_name                 : cube
     
-  - title                                 : Individuelle Warnungen auf Basis Deines Grundumsatzes!
+  - title                                 : Individuelle Warnungen!
     description                           : Wir warnen Dich, wenn du deine tägliche Menge an Zucker überschreitest.
     fontawesome_icon_name                 : exclamation-circle
 
   - title                                 : Kinderleichtes System zur Lebensmittelbewertung!
-    description                           : Zucker, gesättigte Fettsäuren, Salz und eine hohe Kaloriendichte - Werden hier offiziele Grenzwerte eines gescannten Lebensmittel überschritten, warnen wir Dich.
+    description                           : Wir informieren Dich, wenn offiziele Grenzwerte eines gescannten Lebensmittel überschritten werden.
     fontawesome_icon_name                 : exclamation-circle
 
 
