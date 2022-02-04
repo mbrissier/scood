@@ -174,34 +174,29 @@ Wir verarbeiten personenbezogene Daten zu Zwecken des Onlinemarketings, worunter
                     Die Angaben in den Profilen werden im Regelfall in den Cookies oder mittels ähnlicher Verfahren gespeichert.
                     Diese Cookies können später generell auch auf anderen Webseiten die dasselbe Onlinemarketingverfahren einsetzen,
                     ausgelesen und zu Zwecken der Darstellung von Inhalten analysiert als auch mit weiteren Daten ergänzt
-                    und auf dem Server des Onlinemarketingverfahrensanbieters gespeichert werden.
-                     
+                    und auf dem Server des Onlinemarketingverfahrensanbieters gespeichert werden.                 
 <br>
 <br>                 
                     Ausnahmsweise können Klardaten den Profilen zugeordnet werden.
                     Das ist der Fall, wenn die Nutzer z.B. Mitglieder eines sozialen Netzwerks sind,
                     dessen Onlinemarketingverfahren wir einsetzen und das Netzwerk die Profile der Nutzer
                     mit den vorgenannten Angaben verbindet. Wir bitten darum, zu beachten, dass Nutzer mit den Anbietern zusätzliche Abreden,
-                    z.B. durch Einwilligung im Rahmen der Registrierung, treffen können.
-                     
+                    z.B. durch Einwilligung im Rahmen der Registrierung, treffen können.                
 <br>
 <br>                   
                     Wir erhalten grundsätzlich nur Zugang zu zusammengefassten Informationen über den Erfolg unserer Werbeanzeigen.
                     Jedoch können wir im Rahmen sogenannter Konversionsmessungen prüfen, welche unserer Onlinemarketingverfahren zu
                     einer sogenannten Konversion geführt haben, d.h. z.B., zu einem Vertragsschluss mit uns. Die Konversionsmessung
-                    wird alleine zur Analyse des Erfolgs unserer Marketingmaßnahmen verwendet.
-                     
+                    wird alleine zur Analyse des Erfolgs unserer Marketingmaßnahmen verwendet.              
 <br>
 <br>                   
-                    Solange nicht anders angegeben, bitten wir Sie davon auszugehen, dass verwendete Cookies für einen Zeitraum von zwei Jahren gespeichert werden.
-                     
+                    Solange nicht anders angegeben, bitten wir Sie davon auszugehen, dass verwendete Cookies für einen Zeitraum von zwei Jahren gespeichert werden.                 
 <br>
 <br>                   
                      Hinweise zu Rechtsgrundlagen:   Sofern wir die Nutzer um deren Einwilligung in den Einsatz der Drittanbieter bitten,
                     ist die Rechtsgrundlage der Verarbeitung von Daten die Einwilligung. Ansonsten werden die Daten der Nutzer auf Grundlage unserer berechtigten Interessen
                     (d.h. Interesse an effizienten, wirtschaftlichen und empfängerfreundlichen Leistungen) verarbeitet.
-                    In diesem Zusammenhang möchten wir Sie auch auf die Informationen zur Verwendung von Cookies in dieser Datenschutzerklärung hinweisen.
-                     
+                    In diesem Zusammenhang möchten wir Sie auch auf die Informationen zur Verwendung von Cookies in dieser Datenschutzerklärung hinweisen.               
 <br>
 <br>                  
                     -  Verarbeitete Datenarten: Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten);
