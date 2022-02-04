@@ -9,7 +9,7 @@ Feburary 4 20222
 
 # Datenschutz
 Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der Bereitstellung unserer Applikation verarbeiten.
-Die verwendeten Begriffe sind nicht geschlechtsspezifisch 
+Die verwendeten Begriffe sind nicht geschlechtsspezifisch. 
 <br>
 Stand: 20. Dezember 2021.
 
@@ -38,12 +38,15 @@ Im Folgenden erhalten Sie eine Übersicht der Rechtsgrundlagen der DSGVO, auf de
                     Bitte nehmen Sie zur Kenntnis, dass neben den Regelungen der DSGVO nationale Datenschutzvorgaben in Ihrem bzw. unserem Wohn- oder Sitzland gelten können.
                     Sollten ferner im Einzelfall speziellere Rechtsgrundlagen maßgeblich sein, teilen wir Ihnen diese in der Datenschutzerklärung mit.
 <br>
-                    Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO)<br> - Die betroffene Person hat ihre Einwilligung in die Verarbeitung der sie betreffenden
+<br>
+                    Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO)<br><br> - Die betroffene Person hat ihre Einwilligung in die Verarbeitung der sie betreffenden
                     personenbezogenen Daten für einen spezifischen Zweck oder mehrere bestimmte Zwecke gegeben.
 <br>
-                    Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO) <br> - Die Verarbeitung ist zur Wahrung der berechtigten Interessen
+<br>
+                    Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO) <br><br> - Die Verarbeitung ist zur Wahrung der berechtigten Interessen
                     des Verantwortlichen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person,
                     die den Schutz personenbezogener Daten erfordern, überwiegen.
+<br>
 <br>
                     Zusätzlich zu den Datenschutzregelungen der Datenschutz-Grundverordnung gelten nationale Regelungen zum Datenschutz in Deutschland.
                     Hierzu gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG).
