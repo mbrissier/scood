@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Kinderleichtes System zur Lebensmittelbewertung!
     description                           : Zucker, gesättigte Fettsäuren, Salz und eine hohe Kaloriendichte - Werden hier offiziele Grenzwerte eines gescannten Lebensmittel überschritten, warnen wir Dich.
-    fontawesome_icon_name                 : tachometer-fast
+    fontawesome_icon_name                 : exclamation-circle
 
 
 
