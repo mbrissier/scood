@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-Feburary 4 20222
+September 29 2022
 
 # Datenschutz
 Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der Bereitstellung unserer Applikation verarbeiten.
