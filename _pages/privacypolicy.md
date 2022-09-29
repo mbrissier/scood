@@ -27,10 +27,11 @@ Arten der verarbeiteten Daten:
 - Körpergewicht
 - Körpergröße
 - Alter
+- Aktivitäten in Stunden
 - Meta-/Kommunikationsdaten
 
 ## Zwecke der Verarbeitung
-- Ermittlung des persönlichen Grundumsatzes in Kilokalorien.
+- Ermittlung des persönlichen Leistungsumsatzes in Kilokalorien.
 - Profile mit nutzerbezogenen Informationen.
 
 ## Maßgebliche Rechtsgrundlagen
@@ -105,7 +106,7 @@ Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen Vorgaben g
                     Unsere Datenschutzhinweise können ferner weitere Angaben zu der Aufbewahrung und Löschung von Daten beinhalten, die für die jeweiligen Verarbeitungen vorrangig gelten.
 <br>
 <br>
-                    Hinweis zur Löschung Ihrer Daten: Die erhobenen Daten durch Produkt-Scans im Verlauf oder zur Ermittlung des persönlichen Grundumsatzes werden ausschließlich auf dem Smartphone persistiert. Mit Löschung der App sind alle personenbezogenen Daten gelöscht.
+                    Hinweis zur Löschung Ihrer Daten: Die erhobenen Daten durch Produkt-Scans im Verlauf oder zur Ermittlung des persönlichen Leistungsumsatzes werden ausschließlich auf dem Smartphone persistiert. Mit Löschung der App sind alle personenbezogenen Daten gelöscht.
 
 
 ## Einsatz von Cookies
