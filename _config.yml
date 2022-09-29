@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Kinderleichtes System zur Lebensmittelbewertung!
     description                           : Wir informieren Dich, wenn offiziele Grenzwerte eines Lebensmittel überschritten werden.
-    fontawesome_icon_name                 : exclamation-circle
+    fontawesome_icon_name                 : magnifying-glass-chart
 
 
 
