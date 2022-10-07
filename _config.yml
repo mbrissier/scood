@@ -43,9 +43,9 @@ features                                  :
     description                           : Wir warnen Dich, wenn Du Deine tägliche Menge an Zucker, Fett oder Salz überschreitest.
     fontawesome_icon_name                 : exclamation-circle
 
-  - title                                 : Kinderleichtes System zur Lebensmittelbewertung!
-    description                           : Wir informieren Dich, wenn offiziele Grenzwerte eines Lebensmittel überschritten werden.
-    fontawesome_icon_name                 : magnifying-glass-chart
+  - title                                 : Lebensmittelbewertung kinderleicht!
+    description                           : Wir zeigen Dir leicht verständlich, wenn es ungesund wird!
+    fontawesome_icon_name                 : fa-compass
 
 
 
