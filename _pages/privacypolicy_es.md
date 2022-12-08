@@ -26,8 +26,8 @@ La aplicación utiliza servicios de terceros que pueden recopilar información u
 
 Enlace a la política de privacidad de los proveedores de servicios de terceros utilizados por la aplicación
 
-* Google Play Services](https://www.google.com/policies/privacy/)
-* AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+* [Google Play Services](https://www.google.com/policies/privacy/)
+* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * [Expo](https://expo.io/privacy)
 
 
@@ -75,4 +75,4 @@ Esta política es efectiva a partir de 2022-10-07
 
 Si tiene alguna pregunta o sugerencia sobre mi Política de Privacidad, no dude en ponerse en contacto conmigo en M.Brissier@gmail.com.
 
-Esta página de política de privacidad fue creada en [privacypolicytemplate.net](https://privacypolicytemplate.net) y modificada/generada por [App Privacy Policy Generator](https://app-privacy-po
+Esta página de política de privacidad fue creada en [privacypolicytemplate.net](https://privacypolicytemplate.net) y modificada/generada por [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
